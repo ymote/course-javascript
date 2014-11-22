@@ -1,6 +1,6 @@
 var recipe = {
     'title': 'Mole',
-    'servings': 2,
+    ???
     'ingredients': ['cumin', 'cinnamon', 'cocoa']
  };
 
